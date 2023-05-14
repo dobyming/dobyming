@@ -6,9 +6,8 @@
 </p>
 
 <p>
-  👋&nbsp; Hi! I'm <b>Junior Frontend developer</b> skilled in WEB.💻<br/>
+  👋&nbsp; Hi! I'm <b>Junior Frontend developer</b> skilled in WEB.<br/>
   I have experience of Web development and bit of Mobile development.<br/>
-  
   Enjoying UX enhancements and refactorings, not just remain on feature development.🚀
 </p>
 
