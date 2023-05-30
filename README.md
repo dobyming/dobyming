@@ -1,7 +1,6 @@
 ### Good to see you!
 
 <p>
-  <a href="https://velog.io/@damin1025" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/damin-kim/" target="_blank"><img src="https://img.shields.io/badge/Damin Kim-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 </p>
 
