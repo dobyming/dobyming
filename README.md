@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/AWS S3-569A31?style=flat-square&logo=Amazon S3&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS EC2-FF9900?style=flat-square&logo=Amazon EC2&logoColor=black"/>
   <img src="https://img.shields.io/badge/githubpages-222222?style=flat-square&logo=githubpages&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=Firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=Firebase&logoColor=yellow"/>
 
 </p>
 
