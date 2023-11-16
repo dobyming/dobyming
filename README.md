@@ -2,7 +2,7 @@
 {
   "name": "Damin Kim",
   "stacks": {
-    "familiar": [ "JavaScript", "Python", "React", "Gatsby", "Tkinter" ],
+    "familiar": ["JavaScript", "Python", "React", "Gatsby", "Tkinter" ],
     "learning": ["TypeScript", "React Native", "GraphQL" ]
   }
   "links": {
