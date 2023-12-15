@@ -2,8 +2,8 @@
 {
   "name": "Damin Kim",
   "stacks": {
-    "familiar": ["JavaScript", "Python", "React", "Gatsby", "Tkinter" ],
-    "learning": ["TypeScript", "React Native", "GraphQL" ]
+    "familiar": ["Python", "JavaScript", "React", "Gatsby", "Emotion", "MySQL" ],
+    "learning": ["TypeScript", "GraphQL"]
   }
   "links": {
     "blog": "https://dobyming.github.io/",
